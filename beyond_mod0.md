@@ -2,7 +2,7 @@
 ## Things I want to study daily:
 1. The resources shared by the mod 0 instructors that I have bookmarked.
 2. My notes/ replits I created for class practices and challenges.
-3. All vocalbulary, especially in the *conditionals* area.
+3. All vocabulary, especially in the *conditionals* area.
 4. Problem Solving Process
 5. Memorize more ruby *methods*
 ---
