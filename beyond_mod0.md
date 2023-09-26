@@ -5,6 +5,8 @@
 3. All vocabulary, especially in the *conditionals* area.
 4. Problem Solving Process
 5. Memorize more ruby *methods*
+6. Get typing speed and accuracy up
+7. Codewars is awesome!! Lots of that.
 ---
 ## Things I want to make:
 1. Classes
